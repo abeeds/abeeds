@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me
+I am Shahria, and I am a Computer Engineering major at NYU Tandon.
 
 ### Languages
 * Python
