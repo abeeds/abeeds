@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ### Languages
-⋅⋅*Python
-⋅⋅*C/C++
-⋅⋅*JavaScript
-⋅⋅*PHP
-⋅⋅*HTML
-⋅⋅*CSS
+⋅⋅* Python
+⋅⋅* C/C++
+⋅⋅* JavaScript
+⋅⋅* PHP
+⋅⋅* HTML
+⋅⋅* CSS
