@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 I am Shahria, and I am a Computer Engineering major at NYU Tandon.
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,php,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,php,html,css)](https://skillicons.dev)
 
