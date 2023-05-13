@@ -12,9 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About Me
-I am Shahria, and I am a Computer Engineering major at NYU Tandon.
+<h1 align="center">Hi, I'm Shahria</h1>
+<p> I'm a Computer Engineering Major at NYU Tandon School of Engineering
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,php,html,css)](https://skillicons.dev)
+### <h2 align="center">Languages</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,php,html,css" />
+  </a>
+</p>
 
