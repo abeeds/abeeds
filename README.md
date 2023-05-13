@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi, I'm Shahria</h1>
-<p> I'm a Computer Engineering Major at NYU Tandon School of Engineering
+<p align="center"> I'm a Computer Engineering Major at NYU Tandon School of Engineering </p>
 
 ### <h2 align="center">Languages</h2>
 <p align="center">
