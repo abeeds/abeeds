@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Shahria</h1>
 <p align="center"> I'm a Computer Engineering Major at NYU Tandon School of Engineering </p>
 
-### <h2 align="center">Languages</h2>
+### <h2 align="center">Languages I'm Comfortable With</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,c,cpp,js,php,html,css,mysql" alt="python, c, c++, js, php, html, css, mysql"/>
