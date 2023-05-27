@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### <h2 align="center">Languages I'm Comfortable With</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,js,php,html,css,mysql" alt="python, c++, js, php, html, css, mysql"/>
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,php,html,css,mysql" alt="python, c++, js, ts, php, html, css, mysql"/>
   </a>
 </p>
 
